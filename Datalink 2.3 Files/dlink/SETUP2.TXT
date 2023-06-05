@@ -1,0 +1,6 @@
+Bar Hole Pumping Time    ,15
+Calibration Due Period   ,31
+LEL Alarm Level          ,20
+CO Alarm Level           ,35
+Survey Truck Alarm Level ,10
+Air Free CO Enable       ,1
